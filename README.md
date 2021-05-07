@@ -1,5 +1,5 @@
--> 👋 Hi, I’m @raghav9official
--> 👀 I’m interested in web development
--> 🌱 I’m currently learning node js
--> 💞️ I’m looking to collaborate on component.js
--> 📫 send me a mail at raghav9official@gmail.com
+-> 👋 Hi, I’m @raghav9official<br>
+-> 👀 I’m interested in web development<br>
+-> 🌱 I’m currently learning node js<br>
+-> 💞️ I’m looking to collaborate on component.js<br>
+-> 📫 send me a mail at raghav9official@gmail.com<br>
